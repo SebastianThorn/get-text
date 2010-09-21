@@ -1,0 +1,8 @@
+README
+(bets view in emacs org-mode)
+
+*  KNOWN ISSUES
+** TODO Fix that C-c doesn't give error.
+
+*  FUTURE FEATURES
+** TODO Enable searching for swesub.nu
