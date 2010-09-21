@@ -12,7 +12,7 @@ ex:
 """
 def filter_page():
     """
-    Filtrerar fram mÃ¶jliga resultat frÃ¥n hemsidan,
+    Filtrerar fram möjliga resultat från hemsidan,
     och returnerar dessa som tupler i form: (id, url)
     """
     ut = "http://undertexter.se/?p=arkiv&cat=" + '%20'.join(sys.argv[1:])
